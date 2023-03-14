@@ -1,2 +1,2 @@
-public class AulaTeste {
+public class AulaTeste² {
 }
